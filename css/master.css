@@ -1,0 +1,74 @@
+
+body {
+    margin: 0;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+header {
+    border-bottom: black solid 4px;
+    padding: 5px;
+}
+
+a {
+    text-decoration: none;
+}
+
+#currentPage {
+    color: #736CED;
+    border-bottom: #736CED dashed 6px;
+}
+
+.bottomNav {
+    text-align: right;
+    margin-top: 10px;
+}
+
+.bottomNav a {
+    color: #D1ADFF;
+    margin-right: 10px;
+    font-weight: bold; 
+    font-size: 40px;
+    transition: 200ms ;
+
+}
+
+.bottomNav a:hover {
+    color: #736CED;
+}
+
+
+
+#logo {
+    height: 110px;
+    width: 120px;
+    display: inline-block;
+    margin-top: 10px;
+}
+
+.nav {
+    width: 80%;
+    float: right;
+    
+    margin-right: 10px;
+}
+
+.topNav {
+    text-align: right;
+}
+
+.topNav svg {
+    width: 16px;
+    margin-left: 4px;
+}
+
+.topNav a {
+    color: #FC678A;
+
+}
+
+#signup {
+    margin-right: 40px;
+    margin-left: 10px;
+    padding-left: 10px;
+    border-left: #7b7b7b solid 2px;
+}
