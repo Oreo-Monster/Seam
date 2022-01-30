@@ -78,3 +78,13 @@ input:focus {
     outline: none;
 }
 
+.underDev {
+    color: rgb(255, 255, 44);
+    background-color: black;
+    font-size: 30px;
+    width: fit-content;
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
