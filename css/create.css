@@ -29,4 +29,133 @@
     color: #FC678A;
 }
 
-.
+#requestDesignForm{
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+
+#createDesign label {
+    color:#736CED;
+    font-size: 20px;
+    margin-left: 7px;
+}
+
+#createDesign input {
+    border:none;
+    border-right: #736CED 2px solid;
+    padding-top:5;
+    padding-bottom: 5px;
+    margin:0;
+    width: 250px;
+    
+}
+
+#createDesign br {
+    display:block;
+    margin:5px;
+}
+
+.inputWrapper {
+    border: black solid 1px;
+    width: fit-content;
+    margin:0;
+    padding: 1px 2px 2px 15px;
+}
+
+
+#measureTable {
+    margin: 0;
+    border: 1px black solid;
+    border-collapse: collapse;
+}
+
+td input {
+    border: white 2px solid;
+    
+    width: 30px;
+    text-align: center;
+    margin-left: 5px;
+    transition: 200ms;
+}
+
+td input:hover, td input:focus {
+    border-bottom: #736CED 2px solid;
+}
+
+td  {
+    border: black solid 1px;
+    padding: 5px;
+}
+
+.line {
+    border: #736CED 2px solid;
+    width: 100px;
+    border-radius: 5px;
+
+}
+
+form h1 {
+    margin: 0;
+    margin-top: 10px;
+}
+
+section {
+    margin-top:30px;
+}
+
+textarea {
+    border-radius: 15px;
+    border: black solid 2px;
+    padding: 5px;
+    font-size: 12pt;
+    width: 80%;
+    height: 150px;
+    resize: none;
+}
+
+.priceLabel {
+    width: 110px;
+    display: inline-block;
+    margin-left:15px;
+
+}
+
+.dollar {
+    font-size: 25px;
+    font-weight: bold;
+    color:#736CED;
+}
+
+#pricing input {
+    border: none;
+    border-bottom: black solid 1px;
+    width: 50px;
+
+}
+
+button {
+    border-radius: 10px;
+    padding: 10px;
+    border: #736CED solid 2px;
+    background-color: white;
+    color: #736CED;
+    font-size: 14pt;
+    width: 130px;
+    text-align: center;
+    font-weight: bold;
+    float: right;
+    margin-left: 10px;
+    transition: 200ms;
+}
+
+button:hover {
+    background-color: #736CED;
+    color: white;
+    
+}
+
+
+
+
