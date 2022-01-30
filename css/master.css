@@ -88,3 +88,13 @@ input:focus {
     margin-right: auto;
 }
 
+.pagerender {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    display:block;
+}
+
+.construction {
+    width: 100px;
+}
