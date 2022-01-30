@@ -1,0 +1,123 @@
+header {
+    border-color: white;
+}
+
+.angledLine {
+    width: 900px;
+    height: 10px;
+    
+}
+
+#inner {
+    border-bottom: black solid 3px;
+    
+    
+}
+
+#projectsNav {
+    margin-right:100px;
+}
+
+.angledLine#outer {
+    border-bottom: black dashed 3px;
+    transform: rotate(-50deg);
+    padding: 5px;
+    float: right;
+    margin-right: 25px;
+    margin-top: -220px;
+}
+
+.flatLine {
+    height:10px;
+    width: 10000px;
+}
+.flatLine#outer {
+    border-bottom: black dashed 3px;
+    padding: 5px;
+    float: right;
+    margin-right: 760px;
+    margin-top: -15px;
+    
+}
+
+.createBlurb {
+    
+    margin:0;
+    margin-left: 80px;
+}
+
+#logo {
+    width: 300px;
+    height: 300px;
+    margin-left: -30px;
+    margin-top: -30px;
+}
+
+.nav {
+    width: 70%;
+    background-color: none;
+}
+
+#journey, #turn {
+    font-size: 40px;
+    
+    margin-top: 10px;
+}
+
+#starts, #reality {
+    font-size: 70px;
+    font-weight: bold;
+    margin-top: -10px;
+    margin-bottom: 15px;
+}
+
+#createButton, #projectButton {
+    
+    background-color: white;
+    width: 300px;
+    font-size: 50px;
+    text-align:center;
+    display: inline-block;
+    margin-bottom: 70px;
+    transition: 200ms;
+}
+
+#createButton {
+    color:  #736CED;
+    background-color: white;
+    border: #736CED solid 4px;
+}
+
+#createButton:hover {
+    background-color: #736CED;
+    color: white;
+}
+
+#projectButton {
+    color: #FC678A;
+    border: #FC678A solid 4px;
+    margin-left:100px;
+}
+
+#projectButton:hover {
+    background-color: #FC678A;
+    color: white;
+}
+
+#turn {
+    margin-bottom: 10px;
+    text-align: right;
+}
+
+#reality #turn {
+    text-align: right;
+}
+
+#projectBlurbContainer {
+    float: right;
+    margin-right: 80px;
+    margin-top: -100px;
+}
+
+
+

@@ -1,43 +1,71 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 26.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="300 140 400 500" style="enable-background:new 0 0 1008 792;" xml:space="preserve">
+	 viewBox="0 0 1008 792" style="enable-background:new 0 0 1008 792;" xml:space="preserve">
 <style type="text/css">
-	.st0{clip-path:url(#SVGID_00000120552579186967148090000008856570016949211292_);}
-	.st1{font-family:'Helvetica-Bold';}
-	.st2{font-size:470.8178px;}
-	.st3{fill:none;stroke:#000000;stroke-width:4;stroke-miterlimit:10;}
-	.st4{fill:none;stroke:#000000;stroke-width:4;stroke-miterlimit:10;stroke-dasharray:7.0986,9.1268;}
-	.st5{clip-path:url(#SVGID_00000183208130842257551550000016916186112410800557_);}
+	.st0{fill:none;}
+	.st1{clip-path:url(#SVGID_00000013886661590556023120000014483922027191242387_);}
+	.st2{font-family:'Helvetica-Bold';}
+	.st3{font-size:334.615px;}
+	.st4{clip-path:url(#SVGID_00000159466118465241217240000003543467417259325585_);}
+	.st5{fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-miterlimit:10;}
+	.st6{fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:7.1214,9.1561;}
+	.st7{fill:none;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-miterlimit:10;stroke-dasharray:6.7154,8.6341;}
 </style>
+<rect class="st0" width="1008" height="792"/>
 <g>
 	<defs>
-		<polygon id="SVGID_1_" points="582.19,116 396,635.19 338,520 316,347 349,209 422,170 		"/>
+		<polyline id="SVGID_1_" points="564.99,117.79 444.31,483.72 113.41,491.51 23.88,187.86 370.35,110 553.31,121.68 		"/>
 	</defs>
-	<clipPath id="SVGID_00000129924853975621878370000010392197849844406713_">
+	<clipPath id="SVGID_00000160870321357871955930000000887129046321204902_">
 		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
 	</clipPath>
-	<g style="clip-path:url(#SVGID_00000129924853975621878370000010392197849844406713_);">
-		<text transform="matrix(1 0 0 1 337.9648 537.7539)" class="st1 st2">S</text>
+	<g style="clip-path:url(#SVGID_00000160870321357871955930000000887129046321204902_);">
+		<text transform="matrix(1 0 0 1 655.0918 411.9336)" class="st2 st3">M</text>
+	</g>
+	<g style="clip-path:url(#SVGID_00000160870321357871955930000000887129046321204902_);">
+		<text transform="matrix(1 0 0 1 277.4785 411.9336)" class="st2 st3">E</text>
+	</g>
+	<g style="clip-path:url(#SVGID_00000160870321357871955930000000887129046321204902_);">
+		<text transform="matrix(1 0 0 1 460.4463 411.9336)" class="st2 st3">A</text>
+	</g>
+	<g style="clip-path:url(#SVGID_00000160870321357871955930000000887129046321204902_);">
+		<text transform="matrix(1 0 0 1 102.2988 411.9336)" class="st2 st3">S</text>
+	</g>
+</g>
+<g>
+	<defs>
+		<polygon id="SVGID_00000114033564973824112140000009497042438883513477_" points="372.25,681.1 492.93,315.17 895.89,324.11 
+			1001,561.58 907.57,725.08 		"/>
+	</defs>
+	<clipPath id="SVGID_00000098916435699539726180000015929013907316910770_">
+		<use xlink:href="#SVGID_00000114033564973824112140000009497042438883513477_"  style="overflow:visible;"/>
+	</clipPath>
+	<g style="clip-path:url(#SVGID_00000098916435699539726180000015929013907316910770_);">
+		<text transform="matrix(1 0 0 1 583.0303 609.3164)" class="st2 st3">M</text>
+	</g>
+	<g style="clip-path:url(#SVGID_00000098916435699539726180000015929013907316910770_);">
+		<text transform="matrix(1 0 0 1 205.415 609.3164)" class="st2 st3">E</text>
+	</g>
+	<g style="clip-path:url(#SVGID_00000098916435699539726180000015929013907316910770_);">
+		<text transform="matrix(1 0 0 1 388.3838 609.3164)" class="st2 st3">A</text>
+	</g>
+	<g style="clip-path:url(#SVGID_00000098916435699539726180000015929013907316910770_);">
+		<text transform="matrix(1 0 0 1 30.2363 609.3164)" class="st2 st3">S</text>
 	</g>
 </g>
 <g>
 	<g>
-		<line class="st3" x1="404.23" y1="617.16" x2="405.41" y2="613.87"/>
-		<line class="st4" x1="408.49" y1="605.28" x2="587.7" y2="105.56"/>
-		<line class="st3" x1="589.24" y1="101.27" x2="590.42" y2="97.97"/>
+		<line class="st5" x1="481.3" y1="370.36" x2="482.48" y2="367.07"/>
+		<line class="st6" x1="485.58" y1="358.45" x2="571.94" y2="117.6"/>
+		<line class="st5" x1="573.49" y1="113.29" x2="574.67" y2="110"/>
 	</g>
 </g>
 <g>
-	<defs>
-		<polygon id="SVGID_00000059311273707981387370000016126837806700647826_" points="389.82,650.36 576.01,131.17 702,272 702,399 
-			637,641 503,681 		"/>
-	</defs>
-	<clipPath id="SVGID_00000082326885066668938310000015568814306055075980_">
-		<use xlink:href="#SVGID_00000059311273707981387370000016126837806700647826_"  style="overflow:visible;"/>
-	</clipPath>
-	<g style="clip-path:url(#SVGID_00000082326885066668938310000015568814306055075980_);">
-		<text transform="matrix(1 0 0 1 331.7858 552.9191)" class="st1 st2">S</text>
+	<g>
+		<line class="st5" x1="376.2" y1="667.89" x2="377.38" y2="664.6"/>
+		<line class="st7" x1="380.29" y1="656.47" x2="394.38" y2="617.19"/>
+		<line class="st5" x1="395.84" y1="613.13" x2="397.02" y2="609.83"/>
 	</g>
 </g>
 </svg>
