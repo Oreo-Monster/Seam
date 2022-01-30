@@ -1,5 +1,5 @@
-var designFormURL = "http://localhost:8000/requestDesignForm.html"
-var sellFormURL = "http://localhost:8000/sellForm.html"
+var designFormURL = "https://seam-3y7pg5pi7a-ue.a.run.app/requestDesignForm.html"
+var sellFormURL = "https://seam-3y7pg5pi7a-ue.a.run.app/sellForm.html"
 
 
 $(document).ready(function () {
