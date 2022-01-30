@@ -165,7 +165,20 @@ button {
 button:hover {
     background-color: var(--accent);
     color: white;
+}
 
+#units {
+    border-radius: 10px;
+    border: var(--accent) solid 2px;
+    color: var(--accent);
+    margin-left: 15px;
+    margin-bottom: 10px;
+    background-color: white;
+    padding: 3px;
+}
+
+#measurements a {
+    color: var(--accent);
 }
 
 
