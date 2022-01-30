@@ -72,3 +72,69 @@ a {
     padding-left: 10px;
     border-left: #7b7b7b solid 2px;
 }
+
+
+input:focus {
+    outline: none;
+}
+
+#formContainer form{
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+
+#createDesign label {
+    color:#736CED;
+    font-size: 20px;
+    margin-left: 7px;
+}
+
+#createDesign input {
+    border:none;
+    border-right: #736CED 2px solid;
+    padding-top:5;
+    padding-bottom: 5px;
+    margin:0;
+    width: 250px;
+    
+}
+
+#createDesign br {
+    display:block;
+    margin:5px;
+}
+
+.inputWrapper {
+    border: black solid 1px;
+    width: fit-content;
+    margin:0;
+    padding: 1px 2px 2px 15px;
+}
+
+
+#measureTable {
+    margin: 0;
+    border: 1px black solid;
+    border-collapse: collapse;
+}
+
+td input {
+    border: white 2px solid;
+    
+    width: 30px;
+    text-align: center;
+    margin-left: 5px;
+    transition: 200ms;
+}
+
+td input:hover, td input:focus {
+    border-bottom: #736CED 2px solid;
+}
+
+td  {
+    border: black solid 1px;
+    padding: 5px;
+}
+
