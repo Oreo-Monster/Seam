@@ -29,8 +29,8 @@
             </div>
             
             <div class="bottomNav">
-                <a href="home.html">Home</a>
-                <a id="currentPage" href="create.html">Create</a>
+                <a href="index.html">Home</a>
+                <a id="currentPage" href="create.php">Create</a>
                 <a href="projects.html">Projects</a>
                 <a href="shop.html">Shop</a>
                 <a href="artists.html">Artists</a>

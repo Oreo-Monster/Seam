@@ -15,7 +15,7 @@ a {
 
 #currentPage {
     color: #736CED;
-    border-bottom: #736CED dashed 6px;
+    border-bottom: #736CED solid 6px;
 }
 
 .bottomNav {
