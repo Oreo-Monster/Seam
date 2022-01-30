@@ -1,0 +1,69 @@
+<form action="" class="createForm" id="requestDesignForm">
+    <section   id="createDesign">
+        <h1>Create your new design</h1>
+        <label for="itemName">DETAILS</label><br>
+        
+        <div class="inputWrapper"><input type="text" name="itemName"   placeholder="Item Name"></div><br>
+        <div class="inputWrapper"><input type="text" name="" id="tags"   placeholder="Add Tags"></div>  
+    </section>
+
+    <section   id="measurements">
+        <h1>MEASUREMENTS</h1>
+        <a href="">Measurement Tips -></a>
+        <div   id="measureContainer">
+
+            <table id="measureTable">
+                <tr>
+                    <td><label for="" class="measure label">Neck</label><input type="text" name="" id="measure1" class="designForm measurmentItem"></td>
+                    <td><label for="" class="measure label">Bust</label><input type="text" name="" id="measure2" class="designForm measurmentItem"></td>
+                    <td><label for="" class="measure label">Waist</label><input type="text" name="" id="measure3" class="designForm measurmentItem"></td>
+                    <td><label for="" class="measure label">Rise</label><input type="text" name="" id="measure4" class="designForm measurmentItem"></td>
+                    <td><label for="" class="measure label">Hips</label><input type="text" name="" id="measure5" class="designForm measurmentItem"></td>
+                    <td><label for="" class="measure label">Thigh</label><input type="text" name="" id="measure6" class="designForm measurmentItem"></td>
+                    <td><label for="" class="measure label">Knee</label><input type="text" name="" id="measure7" class="designForm measurmentItem"></td>
+                </tr>
+                <tr>
+                    <td><label for="" class="measure label">Calf</label><input type="text" name="" id="measure1" class="designForm measurmentItem"></td>
+                    <td><label for="" class="measure label">Ankle</label><input type="text" name="" id="measure2" class="designForm measurmentItem"></td>
+                    <td><label for="" class="measure label">Inseam</label><input type="text" name="" id="measure3" class="designForm measurmentItem"></td>
+                    <td><label for="" class="measure label">Outseam</label><input type="text" name="" id="measure4" class="designForm measurmentItem"></td>
+                    <td><label for="" class="measure label">Waistband</label><input type="text" name="" id="measure5" class="designForm measurmentItem"></td>
+                    <td><label for="" class="measure label">Back Lenght</label><input type="text" name="" id="measure6" class="designForm measurmentItem"></td>
+                    <td><label for="" class="measure label">Sleeve Length</label><input type="text" name="" id="measure7" class="designForm measurmentItem"></td>
+                </tr>
+            </table>
+
+        </div>
+    </section>
+
+    <section id="description">
+        <h1>DESCRIPTION</h1>
+        <div class="line"></div>
+        <textarea name="" id="" placeholder="Describe your item in detail. Give materials, colors, styles, ect."></textarea>
+    </section>
+
+    <section>
+        <h1>PHOTOS</h1>
+        <div class="" id="dropzone">
+            <label>Drag and Drop Photos</label>
+            <input type="file" id="imageDrop">
+        </div>
+    </section>
+
+    <section id="pricing">
+        <h1>ESTIMATED PRICING</h1>
+        <label class="priceLabel" for="">Material Cost</label>
+        <label class="dollar">$</label>
+        <input type="text"  class="price"><br>
+        <label class="priceLabel">Labour Cost</label>
+        <label class="dollar">$</label>
+        <input type="text"  class="price"><br>
+        <label class="priceLabel">Marckup</label>
+        <label class="dollar">$</label>
+        <input type="text" class="price">
+    </section>
+
+    <button type="reset">RESET</button>
+    <button id="requestDesignSubmit">SUBMIT</button>
+    
+</form>

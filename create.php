@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="css/master.css">
     <link rel="stylesheet" href="css/create.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-    <script src="formSwitch"></script>
+    <script src="formSwitch.js"></script>
     <title>Seam</title>
 </head>
 <body>
@@ -39,11 +39,13 @@
     </header>
 
     <div id="formSelector">
-        <p class="activeForm" id="requestDesign">REQUEST DESIGN</p>
-        <p class="inactiveForm" id="sell">SELL</p>
+        <p class="activeForm" id="requestDesignButton">REQUEST DESIGN</p>
+        <p class="inactiveForm" id="sellButton">SELL</p>
     </div>
     
-    <div id="formContainer"></div>
+    <div id="formContainer">
+        <?php echo file_get_contents('requestDesignForm.html');?>
+    </div>
     
 
 
